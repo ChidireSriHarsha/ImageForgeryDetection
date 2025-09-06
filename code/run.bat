@@ -1,0 +1,2 @@
+python ImageForensic.py
+pause
